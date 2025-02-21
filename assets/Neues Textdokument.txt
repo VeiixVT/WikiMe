@@ -1,0 +1,60 @@
+<span
+              class="home-imprint-contact-us-anime-privacy-policy-wikime-forum-com-genre-cookie-policy-follow-us-character-span"
+            >
+              Home Imprint
+            </span>
+            <span
+              class="home-imprint-contact-us-anime-privacy-policy-wikime-forum-com-genre-cookie-policy-follow-us-character-span2"
+            >
+              Contact us!
+              <br />
+            </span>
+            <span
+              class="home-imprint-contact-us-anime-privacy-policy-wikime-forum-com-genre-cookie-policy-follow-us-character-span3"
+            >
+              <br />
+            </span>
+            <span
+              class="home-imprint-contact-us-anime-privacy-policy-wikime-forum-com-genre-cookie-policy-follow-us-character-span4"
+            >
+              Anime Privacy Policy
+            </span>
+            <span
+              class="home-imprint-contact-us-anime-privacy-policy-wikime-forum-com-genre-cookie-policy-follow-us-character-span5"
+            ></span>
+            <span
+              class="home-imprint-contact-us-anime-privacy-policy-wikime-forum-com-genre-cookie-policy-follow-us-character-span6"
+            >
+              wikime@forum.com
+              <br />
+            </span>
+            <span
+              class="home-imprint-contact-us-anime-privacy-policy-wikime-forum-com-genre-cookie-policy-follow-us-character-span7"
+            >
+              <br />
+            </span>
+            <span
+              class="home-imprint-contact-us-anime-privacy-policy-wikime-forum-com-genre-cookie-policy-follow-us-character-span8"
+            >
+              Genre Cookie Policy
+            </span>
+            <span
+              class="home-imprint-contact-us-anime-privacy-policy-wikime-forum-com-genre-cookie-policy-follow-us-character-span9"
+            ></span>
+            <span
+              class="home-imprint-contact-us-anime-privacy-policy-wikime-forum-com-genre-cookie-policy-follow-us-character-span10"
+            >
+              Follow Us
+              <br />
+            </span>
+            <span
+              class="home-imprint-contact-us-anime-privacy-policy-wikime-forum-com-genre-cookie-policy-follow-us-character-span11"
+            >
+              <br />
+            </span>
+            <span
+              class="home-imprint-contact-us-anime-privacy-policy-wikime-forum-com-genre-cookie-policy-follow-us-character-span12"
+            >
+              Character
+            </span>
+          </span>
